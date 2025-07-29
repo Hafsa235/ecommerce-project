@@ -13,7 +13,6 @@ pnpm dev
 # or
 bun dev
 
-link:  https://ecommerce-project-ochre-psi.vercel.app/
 
 MiniCart – Micro E-commerce Frontend
 
@@ -61,7 +60,11 @@ Known Issues
 - Product detail page `/product/[id]` not working yet
 -No form validation or toast notifications
   
+link:  https://ecommerce-project-ochre-psi.vercel.app/
+
 http://localhost:3000/
+
+
 Why This Project?
 This project was created as a frontend take-home to showcase:
 -State management with Zustand  
