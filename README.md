@@ -59,8 +59,7 @@ Known Issues
 - Product detail page `/product/[id]` not working yet
 -No form validation or toast notifications
   
-http://localhost:3000
-
+http://localhost:3000/
 Why This Project?
 This project was created as a frontend take-home to showcase:
 -State management with Zustand  
