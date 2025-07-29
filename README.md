@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 
+link:  https://ecommerce-project-ochre-psi.vercel.app/
+
 MiniCart – Micro E-commerce Frontend
 
 This is a minimal e-commerce frontend built using **Next.js App Router**, **TypeScript**, **Tailwind CSS**, and **Zustand**. It allows users to browse products, manage their cart with quantity controls, and complete a checkout process — all within a single responsive page.
