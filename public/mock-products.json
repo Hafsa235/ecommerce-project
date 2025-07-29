@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Dumbell",
+    "price": 59.99,
+    "description": "Weight lifting",
+    "image": "/dumbell.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Gym Bottle",
+    "price": 199.99,
+    "description": "Useful for fitness",
+    "image": "/gymbag.jpg"
+  }
+]
